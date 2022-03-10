@@ -1,8 +1,0 @@
-body {
-  background: #000;
-  color: #fff;
-}
-
-h1:nth-child(2) {
-  background-color: red;
-}
